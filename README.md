@@ -1,44 +1,55 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# D&C - Codeforces
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: D&C
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1008098  |  Henrique Camelo Quenino |
+| 22/1007920  |  Caio Felipe Rocha Rodrigues |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto possui como tema central a resolução de exercícios de programação competitiva de Dividir e Conquistar, utilizando a plataforma de juiz online Codeforces. 
+
+## Instalação 
+
+**Linguagem**: C++<br>
+Para utilizar e testar os programas, primeiro é necessário ter um compilador de c/c++ [instalado](https://www.geeksforgeeks.org/installing-mingw-tools-for-c-c-and-changing-environment-variable/) em sua máquina.
+
+Após instalar o compilador em sua máquina, clone o repositório utilizando:
+
+``` bash
+git clone https://github.com/projeto-de-algoritmos-2024/DeC_Codeforces.git
+```
+
+## Uso 
+
+Após clonar o repositório, entre na pasta via terminal e compile os códigos utilizando:
+
+``` bash
+g++ <arquivo_a_compilar>
+```
+
+Um arquivo executável (.out) será criado, para inserir os inputs diretemente no terminal, utilize:
+
+```bash
+./a.out
+```
+
+## Problemas 
+| Problema | Código | Dificuldade | Responsável |
+| -- | -- | -- | -- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  | 
+|  |  |  |  |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Vídeos de explicação das Soluções
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
