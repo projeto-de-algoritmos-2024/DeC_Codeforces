@@ -1,6 +1,6 @@
 # D&C - Codeforces
 
-**Número da Lista**: 3<br>
+**Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: D&C
 
 ## Alunos
