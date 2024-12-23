@@ -37,20 +37,26 @@ Um arquivo executável (.out) será criado, para inserir os inputs diretemente n
 ./a.out
 ```
 
+Caso o arquivo possua extensão `.py`, verifique se possui o Python instalado na sua máquina e utilize o comando:
+
+```bash
+python <arquivo_a_interpretar>
+```
+
 ## Problemas 
 | Problema | Código | Dificuldade | Responsável |
 | -- | -- | -- | -- |
-|  |  |  |  |
-|  |  |  |  |
+| [Maximum Sum on Even Positions](https://codeforces.com/contest/1373/problem/D) | 1373D | Difícil | Caio |
+| [Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | ABC384_D | Médio | Caio |
 |  |  |  |  | 
 |  |  |  |  |
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
 ## Vídeos de explicação das Soluções
 
+Maximum Sum on Even Positions
 
+![video](https://youtu.be/IMB2qNrLq5o)
 
+Repeated Sequence
 
-
+![video](https://youtu.be/urz5uEppw9k)
