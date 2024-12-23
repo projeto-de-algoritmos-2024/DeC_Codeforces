@@ -53,10 +53,6 @@ python <arquivo_a_interpretar>
 
 ## Vídeos de explicação das Soluções
 
-Maximum Sum on Even Positions
+[Maximum Sum on Even Positions](https://youtu.be/IMB2qNrLq5o)
 
-![video](https://youtu.be/IMB2qNrLq5o)
-
-Repeated Sequence
-
-![video](https://youtu.be/urz5uEppw9k)
+[Repeated Sequence](https://youtu.be/urz5uEppw9k)
