@@ -48,11 +48,15 @@ python <arquivo_a_interpretar>
 | -- | -- | -- | -- |
 | [Maximum Sum on Even Positions](https://codeforces.com/contest/1373/problem/D) | 1373D | Difícil | Caio |
 | [Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | ABC384_D | Médio | Caio |
-|  |  |  |  | 
-|  |  |  |  |
+| [Clear the Multiset](https://codeforces.com/problemset/problem/1400/E) | 1400E Codeforces | Díficil| Henrique | 
+| [a-Good String](https://codeforces.com/problemset/problem/1385/D) | 1385D_Codeforces | Díficil | Henrique |
 
 ## Vídeos de explicação das Soluções
 
 [Maximum Sum on Even Positions](https://youtu.be/IMB2qNrLq5o)
 
 [Repeated Sequence](https://youtu.be/urz5uEppw9k)
+
+[Clear the Multiset](https://youtu.be/Wu1UOgnXqQw)
+
+[a-Good String](https://youtu.be/rVrZJZqomxY)
